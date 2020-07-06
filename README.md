@@ -9,8 +9,6 @@
 [Volta](p3.gif)
 ## P4
 [Folio](p4.gif)
-##P5
-[No es no](p5.gif)
 ## P7
 [#QuedateEnCasa](p7.gif)
 ## P7_Extra
