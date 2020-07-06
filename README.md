@@ -15,6 +15,8 @@
 [#QuedateEnCasa](p7.gif)
 ## P7_Extra
 [Ya queda menos](p7_extra.gif)
+##P8
+[Coronavirus Festival](p8.jpg)
 ## P9
 [Escenario](p9.jpg)
 ## P10
